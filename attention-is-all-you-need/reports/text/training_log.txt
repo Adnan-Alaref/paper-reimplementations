@@ -1,0 +1,11 @@
+Epoch [ 10] - Train loss: 1.123 | Train acc: 95.361% | LR: 0.007071
+Epoch [ 20] - Train loss: 2.841 | Train acc: 40.722% | LR: 0.006988
+Epoch [ 30] - Train loss: 1.571 | Train acc: 80.928% | LR: 0.005705
+Epoch [ 40] - Train loss: 1.260 | Train acc: 91.753% | LR: 0.004941
+Epoch [ 50] - Train loss: 1.144 | Train acc: 91.237% | LR: 0.004419
+Epoch [ 60] - Train loss: 1.157 | Train acc: 91.237% | LR: 0.004034
+Epoch [ 70] - Train loss: 1.202 | Train acc: 89.175% | LR: 0.003735
+Epoch [ 80] - Train loss: 1.133 | Train acc: 93.299% | LR: 0.003494
+Epoch [ 90] - Train loss: 1.063 | Train acc: 93.299% | LR: 0.003294
+Epoch [100] - Train loss: 1.061 | Train acc: 93.814% | LR: 0.003125
+Best checkpoint saved — Epoch: 97 | Loss: 1.0156
