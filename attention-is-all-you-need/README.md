@@ -1,3 +1,7 @@
+<img width="1536" height="1024" alt="firstWritup" src="https://github.com/user-attachments/assets/3777474b-ea98-4a94-81f9-5edefbfa3163" />
+
+
+
 ## Current Implementation
 
 ### Attention Is All You Need — 2017
